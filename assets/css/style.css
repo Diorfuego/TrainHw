@@ -1,0 +1,14 @@
+panel{
+	width: 100%;
+}
+
+.jumbotron{
+	background-color: #9d05cc;
+	color: #dadad6;
+	padding-top: 1%;
+	padding-bottom: 2%;
+}
+
+.panel-heading{
+	padding-top: 0.25%;
+}
